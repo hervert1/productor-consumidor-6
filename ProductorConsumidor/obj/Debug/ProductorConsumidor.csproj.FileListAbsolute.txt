@@ -1,0 +1,36 @@
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Trabajos\Seminario de sistemas operativos - Cuauhtli\Actividad 12\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.Cache
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojAssemblyReference.cache
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\ProductorConsumidor 6\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
